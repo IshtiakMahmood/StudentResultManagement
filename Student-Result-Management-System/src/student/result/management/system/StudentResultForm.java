@@ -30,7 +30,7 @@ public class StudentResultForm extends javax.swing.JFrame {
         // Database connection details
         String url = "jdbc:mysql://localhost:3306/StudentResultDB";
         String user = "root";
-        String password = "qqqq"; // Replace with your MySQL password
+        String password = "****"; // Replace with your MySQL password
 
         // Establish the connection
         conn = DriverManager.getConnection(url, user, password);
